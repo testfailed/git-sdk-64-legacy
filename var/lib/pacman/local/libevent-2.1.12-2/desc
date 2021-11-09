@@ -1,0 +1,45 @@
+%NAME%
+libevent
+
+%VERSION%
+2.1.12-2
+
+%BASE%
+libevent
+
+%DESC%
+An event notification library
+
+%URL%
+https://libevent.org/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1604052762
+
+%INSTALLDATE%
+1636444996
+
+%PACKAGER%
+CI (msys2-autobuild/6e7d6a99/337459329)
+
+%SIZE%
+695959
+
+%REASON%
+1
+
+%LICENSE%
+BSD
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+openssl
+
+%OPTDEPENDS%
+python: to use event_rpcgen.py
+
