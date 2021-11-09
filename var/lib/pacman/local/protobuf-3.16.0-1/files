@@ -1,0 +1,11 @@
+%FILES%
+usr/
+usr/bin/
+usr/bin/msys-protobuf-27.dll
+usr/bin/msys-protobuf-lite-27.dll
+usr/bin/msys-protoc-27.dll
+usr/share/
+usr/share/licenses/
+usr/share/licenses/protobuf/
+usr/share/licenses/protobuf/LICENSE
+
